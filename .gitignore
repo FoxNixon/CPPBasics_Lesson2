@@ -11,7 +11,7 @@
 *.sln.docstates
 
 ConsoleApplication1.*
-x64
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
