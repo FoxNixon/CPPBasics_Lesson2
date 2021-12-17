@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main() {
 
 	// Task1 Variable init
 	{
